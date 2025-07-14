@@ -51,12 +51,12 @@ function App() {
       {/* Section Image */}
       <div className="flex gap-4">
         <img
-          src="image1.jpg"
+          src="photo1.jpg"
           alt="Salle de classe HEI"
           className="w-64 h-auto rounded-lg shadow-md"
         />
         <img
-          src="image2.jpg"
+          src="photo1.jpg"
           alt="Étudiants HEI"
           className="w-64 h-auto rounded-lg shadow-md border-4 border-white -ml-10"
         />
